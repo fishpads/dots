@@ -1,0 +1,9 @@
+[colors.primary]
+background = "#000000"
+foreground = "#F8F8F8"
+[shell]
+program = "/bin/fish"
+args = ["--login"]
+[window]
+opacity = 1.0
+
